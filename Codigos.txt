@@ -1,3 +1,29 @@
-alinhamento de codigos do GIt 
-commit 1
-commit 2
+Codigos importantes Git 
+
+git init:
+inicia repositorio na pasta para utilizar o git
+
+git status:
+ver o status do git
+
+git add <nome do arquivo>:
+adciona arquivo a arvore do git 
+("git add .") adiciona todos os arquivos
+
+git commit: 
+comenta a modificao feita no git
+
+git push:
+envia os arquivos ao github
+
+git pull:
+recebe os arquvios do github
+
+git checkout <nome do arquivo>:
+volta ao "padrao" do github
+
+git reset --hard orign/main
+reseta para o codigo do github
+
+gitignore arquivo:
+criar arquivo ".gitignore" e adicionar qualquer pasta ou arquivo para o git ignorar
