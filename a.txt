@@ -1,2 +1,1 @@
-a txt enviado
-eo b tbm
+alinhamento de codigos do GIt 
