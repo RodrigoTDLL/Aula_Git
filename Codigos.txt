@@ -10,7 +10,7 @@ git add <nome do arquivo>:
 adciona arquivo a arvore do git 
 ("git add .") adiciona todos os arquivos
 
-git commit: 
+git commit -a -m " ": 
 comenta a modificao feita no git
 
 git push:
