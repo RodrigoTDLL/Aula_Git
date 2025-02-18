@@ -27,3 +27,5 @@ cria um chekcpoint
 git show: 
 mostra a versao da tag
 
+git checkout (nome da tag):
+alterna tag
