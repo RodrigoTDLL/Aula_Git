@@ -1,10 +1,10 @@
-1
-2
-3
-4
-5
-6
-7
-8
-9
-piti
+branch:
+
+git branch:
+checar branch
+
+git branch <nome>:
+cria um branch
+
+git checkout <nome do branch>
+(sempre commitar antes de mudar de branch!!!!)
