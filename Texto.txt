@@ -11,3 +11,12 @@ git checkout <nome do branch>
 
 git merge <nome do branch>:
 junta o branch ao atual
+
+git stash:
+manda para a "lixeira"
+
+git stash list:
+exibe lista 
+
+git stash apply (numero):
+recupera da "lixeira"
