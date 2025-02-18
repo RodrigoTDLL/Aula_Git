@@ -8,3 +8,6 @@ cria um branch
 
 git checkout <nome do branch>
 (sempre commitar antes de mudar de branch!!!!)
+
+git merge <nome do branch>:
+junta o branch ao atual
