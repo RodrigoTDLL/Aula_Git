@@ -20,3 +20,6 @@ exibe lista
 
 git stash apply (numero):
 recupera da "lixeira"
+
+git tag -a (nome) -m ("comentario"):
+cria um chekcpoint
